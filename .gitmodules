@@ -1,0 +1,4 @@
+[submodule "discogs_client"]
+	path = discogs_client
+	url = git@github.com:smopucilowski/discogs_client.git
+	branch = my-tweaks
